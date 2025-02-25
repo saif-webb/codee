@@ -1,1 +1,2 @@
-My First Git Project
+Local changes
+Remote changes
